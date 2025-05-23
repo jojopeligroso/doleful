@@ -43,7 +43,7 @@
     "@spotlightjs/spotlight": "^2.5.0",
     "@t3-oss/env-nextjs": "^0.11.1",
     "@tanstack/react-table": "^8.20.5",
-    "class-variance-authority": "^0.7.0",
+    "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "drizzle-orm": "^0.35.1",
     "lucide-react": "^0.453.0",
@@ -58,7 +58,7 @@
     "react-hook-form": "^7.53.0",
     "sharp": "^0.33.5",
     "stripe": "^16.12.0",
-    "tailwind-merge": "^2.5.4",
+    "tailwind-merge": "^2.6.0",
     "zod": "^3.23.8"
   },
   "devDependencies": {
